@@ -36,8 +36,7 @@
             </span>
           </div>
         </div>
-
-        <tab />
+        <Tab />
       </div>
     </div>
   </div>
