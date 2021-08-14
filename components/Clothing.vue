@@ -15,7 +15,7 @@
     >
       <img
         :src="clothing.imgUrl"
-        alt="Front of men&#039;s Basic Tee in black."
+        :alt="clothing.name"
         class="w-full h-full object-center object-cover lg:w-full lg:h-full"
       />
     </div>
