@@ -14,7 +14,7 @@
     >
       <img
         :src="img.tatImg"
-        alt="Front of men&#039;s Basic Tee in black."
+        alt="Dumplings Captured"
         class="w-full h-full object-center object-cover lg:w-full lg:h-full"
       />
     </div>
