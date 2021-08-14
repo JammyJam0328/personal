@@ -31,6 +31,7 @@
         <div class="bg-white rounded-md shadow">
           <div
             class="
+              pt-5
               max-w-2xl
               mx-auto
               pb-12
