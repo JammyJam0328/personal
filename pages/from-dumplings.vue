@@ -26,10 +26,7 @@
             class="h-16 w-16 rounded-full mx-auto ring-4 ring-pink-200"
             alt=""
           />
-          <div>
-            &#129375; &#129375; &#128248; &#128248; Dumplings Captured &#128248;
-            &#128248; &#129375; &#129375;
-          </div>
+          <div>&#129375; &#128248; Dumplings Captured &#128248; &#129375;</div>
         </div>
         <div class="bg-white rounded-md shadow">
           <div
@@ -51,7 +48,7 @@
                 xl:gap-x-8
               "
             >
-              <div v-for="img in tatImages" :key="img.imgID">
+              <div v-for="img in tatImages" :key="img.imgUrl">
                 <TatImage :img="img" />
               </div>
 
@@ -79,12 +76,13 @@ export default {
   components: {
     TatImage,
   },
+
   data() {
     return {
       id: 0,
       tatImages: [
         {
-          imgID: this.id++,
+          imgID: this.id + 1,
           by: "Tatwina'sDumpling @jooommyyjam",
           tatImg: tat1,
         },
