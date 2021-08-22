@@ -65,8 +65,8 @@ export default {
     return {
       questions: [
         {
-          question: 'Question no 1',
-          answer: 'answer 1',
+          question: 'What is your favorite color ?',
+          answer: 'Taupe',
         },
         {
           question: 'Question no 2',

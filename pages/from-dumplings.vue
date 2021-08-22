@@ -83,29 +83,62 @@ export default {
       id: 0,
       tatImages: [
         {
-          imgID: this.id + 1,
           by: "Tatwina'sDumpling @jooommyyjam",
           tatImg: tat1,
         },
         {
-          imgID: this.id++,
           by: "Tatwina'sDumpling @jooommyyjam",
           tatImg: tat2,
         },
         {
-          imgID: this.id++,
           by: "Tatwina'sDumpling @jooommyyjam",
           tatImg: tat3,
         },
         {
-          imgID: this.id++,
           by: "Tatwina'sDumpling @jooommyyjam",
           tatImg: tat4,
         },
         {
-          imgID: this.id++,
           by: "Tatwina'sDumpling @jooommyyjam",
           tatImg: tat5,
+        },
+
+        {
+          by: 'tatattheloml @_alexadbhdjs',
+          tatImg:
+            'https://pbs.twimg.com/media/E9UoYJBVIAIFnro?format=jpg&name=large',
+        },
+
+        {
+          by: 'tatattheloml @_alexadbhdjs',
+          tatImg:
+            'https://pbs.twimg.com/media/E9Uouw5VgAYxMqC?format=jpg&name=large',
+        },
+        {
+          by: 'tatreng @tatreng',
+          tatImg:
+            'https://pbs.twimg.com/media/E9Uo0oVUUAIQFE8?format=jpg&name=medium',
+        },
+
+        {
+          by: 'hourly katrina ♡ @tatwinaloml',
+          tatImg:
+            'https://pbs.twimg.com/media/E9Uo5tCUYAQE0E-?format=jpg&name=large',
+        },
+        {
+          by: 'hourly katrina ♡ @tatwinaloml',
+          tatImg:
+            'https://pbs.twimg.com/media/E9Uo59jVoAw3s7g?format=jpg&name=large',
+        },
+        {
+          by: 'cherry @tatwinapics',
+          tatImg:
+            'https://pbs.twimg.com/media/E9UpWg7UcAQ8HlK?format=jpg&name=large',
+        },
+        {
+          by: 'cherry @tatwinapics',
+          tatImg:
+            'https://pbs.twimg.com/media/E9UpYICVoAIgNPr?format=jpg&name=large',
         },
       ],
     }
